@@ -13,8 +13,7 @@ gem 'pry-rails'
 gem 'devise'
 gem 'redis'
 gem 'mail'
-
-# gem "resque", "~> 2.0.0.pre.1", github: "resque/resque"
+gem "resque", "~> 2.0.0.pre.1", github: "KNEIP/resque"
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
